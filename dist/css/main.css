@@ -305,7 +305,8 @@ img {
     padding: 0.5rem 1rem; }
 
 #contact-a button[type='submit'] {
-  width: 50%; }
+  width: 50%;
+  margin-bottom: 1rem; }
 
 #contact-b .contact-info {
   display: grid;
